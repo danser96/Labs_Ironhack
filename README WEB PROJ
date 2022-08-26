@@ -1,0 +1,39 @@
+<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+
+# Art API
+*[Daniela Versteeg]*
+
+*[Data Analytics, Ironhack CDMX , 08/22]*
+
+## Content
+- [Project Description](#project-description)
+- [Sources](#rules)
+- [Outcomes](#creation)
+- [Links](#links)
+
+## Project Description
+A comparisson between the information found in the API Art Institue of Chicago and two art blogs. 
+The documentation obtained from AICs API covers the pieces of art they have in their exhibit and,
+all the artists they have featured. I used this information to compare information about the best
+universities for art in USA and the best pieces of art in USA to see if The Art Institute of Chicago
+was featured in either blog. 
+
+## Sources
+I obtained information from two APIs provided by The Art Institute of Chicago as well as two
+blogs from different sources.
+
+## Outcomes
+During the comparisson we can observe things like, most common year of art pieces, average year
+of art creations, whether the art is popular or not. As well as seeing that AIC is included in 
+the best schools for art in the USA. 
+
+
+
+## Links
+https://blog.prepscholar.com/best-art-schools-in-the-world
+https://stephaniestorey.com/blog/top-10-must-see-art-in-the-united-states
+https://api.artic.edu/docs/#introduction
+
+[Repository](https://github.com/)  
+[Slides](https://slides.com/)  
+[Trello](https://trello.com/en)  
